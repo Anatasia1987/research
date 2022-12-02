@@ -7,3 +7,5 @@ There 3 python code files that has been embedded into this repos. The file names
 For the password change, you will need to enter 1234 to change the password in the 'terminal'
 
 The SDLC explanations have been added into the Microsoft Word document for your reference
+
+[IT5016D_Assessment 2 - 20220369.docx](https://github.com/Anatasia1987/research/files/10139642/IT5016D_Assessment.2.-.20220369.docx)
