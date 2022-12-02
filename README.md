@@ -5,3 +5,5 @@ or else: https://www.figma.com/file/PSpQn0hX5Ea8TOvMhc7YyC/Ticketing-System---As
 There 3 python code files that has been embedded into this repos. The file names are "main. ticket.py; passwordchange.py; and submitticket.py"
 
 For the password change, you will need to enter 1234 to change the password in the 'terminal'
+
+The SDLC explanations have been added into the Microsoft Word document for your reference
