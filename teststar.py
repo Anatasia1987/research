@@ -42,8 +42,8 @@ def draw(n, x, angle):
           
   
 # setting the parameters
-n = 30    # number of stars
-x = 72   # exterior angle of each star
+n = 20    # number of stars
+x = 144   # exterior angle of each star
 angle = 18    # angle of rotation for the spiral
   
 draw(n, x, angle)
